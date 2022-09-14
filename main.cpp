@@ -1,8 +1,8 @@
 #include <iostream>  //cout
 
 int main(int ac, char** av) { 
-    //Hola Mundo
-    std::cout << "Hola Mundo " << std::endl;
+    //Hello World
+    std::cout << "Hello World User 1!" << std::endl;
 
     return 0; 
 }
