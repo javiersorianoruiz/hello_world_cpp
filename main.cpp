@@ -2,6 +2,8 @@
 
 int main(int ac, char** av) { 
     //Hello World
+    
+    std::cout << "cambio hecho en otro repositorio local y subido al remoto" << std::endl; //Nueva linea no conocida por el otro repositorio
     std::cout << "cambio hecho en otro repositorio local y subido al remoto" << std::endl; //Nueva linea no conocida por el otro repositorio
 
 
