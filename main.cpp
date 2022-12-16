@@ -8,6 +8,8 @@ int main(int ac, char** av) {
     std::cout << "primer cambio en nueva_rama" << std::endl;
 
     std::cout << "segundo cambio en nueva_rama tras tag v1.0.0" << std::endl;
+
+    std::cout << "cambio en nueva_rama2" << std::endl;
     
     return 0; 
 }
