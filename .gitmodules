@@ -1,3 +1,4 @@
 [submodule "submodule/hello_world_cpp_submodule"]
 	path = submodule/hello_world_cpp_submodule
 	url = git@github.com:javiersorianoruiz/hello_world_cpp_submodule.git
+	branch=main
