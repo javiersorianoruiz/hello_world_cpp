@@ -8,5 +8,7 @@ int main(int ac, char **av)
 
     std::cout << "Hello World Rama: Feature_EVC_MonoChannel" << std::endl;
 
+    std::cout << "Hello World Rama: Feature_EVC_MonoChannel" << std::endl;
+
     return 0;
 }
